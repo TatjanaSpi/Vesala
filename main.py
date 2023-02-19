@@ -1,0 +1,1 @@
+print("Ovo je igra vesala u kojoj je poenta pogoditi slova, a time i celu rec. Medjutim, postoji odredjeni broj gresaka koji omogucavaju da igra traje. Nakon vise od pet pogresno izabranih slova, igra se zavrsava. Srecno!")
